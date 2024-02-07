@@ -26,7 +26,7 @@ Build a website to showcase the following:
 
 
 ![Imgur](Screenshot%20from%202024-02-07%2012-42-29.png)
-![Imgur](Screenshot%20from%202024-02-07%2012-45-12.png)
-![Imgur](Screenshot%20from%202024-02-07%2012-45-28.png)
+![Imgur](Screenshot%20from%202024-02-07%2015-54-34.png)
+![Imgur](Screenshot%20from%202024-02-07%2015-58-01.png)
 
 
