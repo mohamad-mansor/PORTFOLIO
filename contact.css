@@ -11,17 +11,16 @@ body {
   color: #ededed;
 }
 
-.form{
-margin: 50px;
+h2{
+  margin-bottom: 10px;
 }
-
 form {
 
-  width: 500px;
-  margin: 0 auto;
-  padding: 20px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
+  width: 100%;
+  margin: 100px  auto;
+  padding: 80px;
+  /* border: 1px solid #ccc; */
+  /* border-radius: 5px; */
 }
 
 .form-group {
