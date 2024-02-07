@@ -45,6 +45,10 @@ body {
   margin-bottom: 10px;
 }
 
+.button{
+  margin: 5px;
+}
+
 .btn {
   background-color: #00abf0;
   color: #fff;
@@ -61,3 +65,4 @@ body {
 .btn:hover {
   background-color: #0062cc;
 }
+

@@ -17,7 +17,7 @@ h2{
 form {
 
   width: 100%;
-  margin: 100px  auto;
+  margin: 0  auto;
   padding: 80px;
   /* border: 1px solid #ccc; */
   /* border-radius: 5px; */
@@ -51,8 +51,11 @@ button {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  transition: all 0.2s ease-in-out;
+
 }
 
 button:hover {
   background-color: #0062cc;
 }
+
